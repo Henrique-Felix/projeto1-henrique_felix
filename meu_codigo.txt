@@ -1,1 +1,4 @@
-Olá meu nome é Henrique
+Olá meu nome é Henrique!
+
+Estou aprendendo Git e GitHub.
+
